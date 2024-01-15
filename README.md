@@ -1,1 +1,1 @@
-Just download the .exe file and open it
+# Just download the .exe file and open it
