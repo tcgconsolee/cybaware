@@ -1,1 +1,1 @@
-# Just download the .exe file and open it
+# download the repo and open the .exe file
